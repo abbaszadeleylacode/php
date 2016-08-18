@@ -1,0 +1,16 @@
+.col-md-4{
+	height: 500px;
+	border: 1px solid blue;
+}
+
+img{
+	padding: 5px;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+.imagePhoto{
+	margin-top: 15px;
+}
+.btn{
+	padding: 5px 20px;
+}
